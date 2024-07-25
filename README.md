@@ -1,10 +1,9 @@
 # 🥇 WINNER
 ![winner-notion](https://github.com/rimmyhub/jobposting-project/assets/131572117/caea054b-b286-4205-8f86-187c16bdf0dd)
-🏠 배포 주소 : [WINNER 홈페이지 바로가기](https://w1nner.site/)
 
 📑 브로 슈어 : [브로셔 바로가기](https://outgoing-angora-d26.notion.site/WINNER-3a89e026e7894d5e92f38d2bb3029a6d?pvs=4)
 
-📝 발표 자료 : [winner-최종프로젝트-3조.pdf](https://github.com/rimmyhub/jobposting-project/files/12644873/winner-.-3.pdf)
+📝 발표 자료 : [winner-최종프로젝트-3조.pdf](https://drive.google.com/file/d/1FiWpgcMJp1pTgmh7b4dBkBWJJAGkDuj4/view?usp=drive_link)
 
 <br>
 
